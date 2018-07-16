@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.3.31 - Update (16 Jul 2018)
+
+- Added editable name field for planetary bases.
+- Fixed a few minor issues in base backup/restore functions.
+
 ## 1.3.30 - Update (16 Jul 2018)
 
 - Implemented planet / freighter base backup/restore functions.
