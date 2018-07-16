@@ -23,7 +23,7 @@ Since No Man's Sky first came out, I was always annoyed that I couldn't just lin
 
 ## Installation
 
-1. Download the [latest version](NMSSaveEditor.zip).
+1. Download the [latest version](../../raw/master/NMSSaveEditor.zip).
 2. Extract the contents of the zip file to an empty folder somewhere.
 3. Run the bat file (or the jar file if the file extension is associated to java).
 4. When the main window opens, locate the folder that your saves are in, and choose the most recent.
