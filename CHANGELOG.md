@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.3.32 - Update (17 Jul 2018)
+
+- Fixed a few minor issues in base backup/restore functions, and changed the storage structure (requires resave if used previously).
+- Added a version checker dialog.
+
 ## 1.3.31 - Update (16 Jul 2018)
 
 - Added editable name field for planetary bases.
