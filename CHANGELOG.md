@@ -2,6 +2,10 @@
 
 ## 1.3.32 - Update (17 Jul 2018)
 
+- Added warning messages for incompatible base versions, and for when the backup/restore process fails.
+
+## 1.3.32 - Update (17 Jul 2018)
+
 - Fixed a few minor issues in base backup/restore functions, and changed the storage structure (requires resave if used previously).
 - Added a version checker dialog.
 
