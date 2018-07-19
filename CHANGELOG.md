@@ -1,6 +1,12 @@
 # Change Log
 
-## 1.3.32 - Update (17 Jul 2018)
+## 1.3.34 - Updates (19 Jul 2018)
+
+- Fixed bugs in file open dialog, and changed default filter to show current files only.
+- Added confirm dialogs when switching slots/files if the current file has changed.
+- Fixed remaining issues with backup/restore feature.
+
+## 1.3.33 - Update (17 Jul 2018)
 
 - Added warning messages for incompatible base versions, and for when the backup/restore process fails.
 
