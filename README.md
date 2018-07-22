@@ -1,4 +1,4 @@
-# No Man's Sky - Save Editor
+# No Man's Sky - Save Editor (for Atlas Rises)
 
 ## Introduction
 
@@ -27,13 +27,16 @@ Since No Man's Sky first came out, I was always annoyed that I couldn't just lin
 <img src="screenshots/base.png" width="32%"/> <img src="screenshots/discovery.png" width="32%"/> <img src="screenshots/milestones.png" width="32%"/>
 <img src="screenshots/jsoneditor.png" width="56%"/> More screenshots can be found [here](screenshots).
 
+## Compatibility
+
+Requirements:
+- No Man's Sky - Atlas Rises (PC)
+- <a href="https://java.com/en/download/manual.jsp" target="_blank">Java Runtime Environment 8</a>
+
 ## Installation
 
-1. Download the [latest version](../../raw/master/NMSSaveEditor.zip).
+1. Download the [latest version](../../raw/atlasRises/NMSSaveEditor.zip).
 2. Extract the contents of the zip file to an empty folder somewhere.
 3. Run the bat file (or the jar file if the file extension is associated to java).
 4. When the main window opens, locate the folder that your saves are in, and choose the most recent.
 5. Start tinkering!
-
-NOTE: <a href="https://java.com/en/download/manual.jsp" target="_blank">Java Runtime Environment 8</a> is required.
-
