@@ -1,8 +1,8 @@
-# No Man's Sky - Save Editor
+# No Man's Sky - Save Editor (for NEXT)
 
 ## Introduction
 
-Since No Man's Sky first came out, I was always annoyed that I couldn't just link up my jetpack mods in my exosuit. After many tedious searches, I came across a save editor that allowed me to do just that, but for some reason I couldn't get it to load my permadeath saves. So I decided to rewrite it in Java for fun and as I dug deeper and added more functionality, I think it has become a pretty useful tool.
+Since No Man's Sky first came out, I was always annoyed that I couldn't just link up my jetpack mods in my exosuit. After many tedious searches, I came across a save editor that allowed me to do just that, but for some reason I couldn't get it to load my permadeath saves. So I decided to rewrite it in Java for fun, and as I dug deeper and added more functionality it has grown to become a pretty useful tool.
 
 ### Features
 
@@ -27,6 +27,12 @@ Since No Man's Sky first came out, I was always annoyed that I couldn't just lin
 <img src="screenshots/base.png" width="32%"/> <img src="screenshots/discovery.png" width="32%"/> <img src="screenshots/milestones.png" width="32%"/>
 <img src="screenshots/jsoneditor.png" width="56%"/> More screenshots can be found [here](screenshots).
 
+## Compatibility
+
+Requirements:
+- No Man's Sky - NEXT (PC)
+- <a href="https://java.com/en/download/manual.jsp" target="_blank">Java Runtime Environment 8</a>
+
 ## Installation
 
 1. Download the [latest version](../../raw/master/NMSSaveEditor.zip).
@@ -35,5 +41,6 @@ Since No Man's Sky first came out, I was always annoyed that I couldn't just lin
 4. When the main window opens, locate the folder that your saves are in, and choose the most recent.
 5. Start tinkering!
 
-NOTE: <a href="https://java.com/en/download/manual.jsp" target="_blank">Java Runtime Environment 8</a> is required.
+## Previous Releases
 
+- [Atlas Rises (1.3)](../atlasRises/README.md)
