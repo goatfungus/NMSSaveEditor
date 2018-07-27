@@ -1,5 +1,12 @@
 # Change Log
 
+## 1.5.3 - Update (27 July 2018)
+
+- Updated for NMS 1.51.
+- Updated the items database and fixed item categories.
+- Updated NPC races list to detect new models.
+- Added base selection box to the Base Information tab, to allow users to view all bases, not just the first one.
+
 ## 1.5.2 - Update (26 July 2018)
 
 - Updated exosuit and ship health to new max levels (was changed in NEXT).
