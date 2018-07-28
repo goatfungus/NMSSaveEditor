@@ -19,6 +19,7 @@ Since No Man's Sky first came out, I was always annoyed that I couldn't just lin
 - Ability to edit the game stats that are used for milestones and faction reputation.
 - Ability to edit the raw JSON in the save file (for advanced users only).
 - Automatic backup and recovery of all saves (in case you screw up something).
+- Backup/Restore of planet base structures, usable across different systems or saves.
 
 ### Screenshots
 

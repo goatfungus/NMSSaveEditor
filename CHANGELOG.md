@@ -1,5 +1,16 @@
 # Change Log
 
+## 1.5.4 - Update (28 July 2018)
+
+- Added Delete Ship button (BE CAREFUL!).
+- Updated item viewer to show the correct ID for procedural technology.
+- Updated the planetary base backup/restore function to support NEXT bases.
+
+**PLEASE NOTE:**
+
+- Players who previously backed up their bases pre-NEXT should be able to restore their bases from file (choose "All" in the file selection dialog). This will automatically create a new main room structure, a teleporter, a doorway/ramp, and a few windows where things used to be in your old base.
+- The base restore function does not support terrain modifications (yet), so there is still an issue where terrain can bleed through the floor, especially with bases built underground.
+
 ## 1.5.3 - Update (27 July 2018)
 
 - Updated for NMS 1.51.
