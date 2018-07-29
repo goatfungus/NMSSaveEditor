@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.5.6 - Update (30 July 2018)
+
+- Added ability to manage frigates and their stats.
+- Added home system seed field to freighters.
+
 ## 1.5.5 - Update (29 July 2018)
 
 - Added a save file recovery feature for saves that are corrupted in-game.
