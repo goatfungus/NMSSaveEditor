@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.5.5 - Update (29 July 2018)
+
+- Added a save file recovery feature for saves that are corrupted in-game.
+- Added a check to ensure that an invalid ship index produced by the game doesn't impact the editor.
+
 ## 1.5.4 - Update (28 July 2018)
 
 - Added Delete Ship button (BE CAREFUL!).
