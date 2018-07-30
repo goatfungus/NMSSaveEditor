@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.5.7 - Update (30 July 2018)
+
+- Updated frigate management to filter traits based on frigate type.
+- Set limit on number of frigates to 30 (this is the in-game limit).
+- Changed Copy button to create frigates with new random seed value and no name.
+
 ## 1.5.6 - Update (30 July 2018)
 
 - Added ability to manage frigates and their stats.
