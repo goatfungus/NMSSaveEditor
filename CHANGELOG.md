@@ -1,5 +1,13 @@
 # Change Log
 
+## 1.5.8 - Update (31 July 2018)
+
+- Changed Known Words Learn All function to only learn the words that are actually used by each race.
+- Fixed issue where edits made to Frigate stats don't save when you select the next frigate.
+- Updated the frigate trait list to show which traits are beneficial or not in the dropdowns.
+- Removed formatting from item descriptions in the item viewer.
+- Fixed issue where primary trait was not being updated on frigate type change.
+
 ## 1.5.7 - Update (30 July 2018)
 
 - Updated frigate management to filter traits based on frigate type.

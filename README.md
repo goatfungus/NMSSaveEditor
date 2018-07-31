@@ -2,7 +2,9 @@
 
 ## Introduction
 
-Since No Man's Sky first came out, I was always annoyed that I couldn't just link up my jetpack mods in my exosuit. After many tedious searches, I came across a save editor that allowed me to do just that, but for some reason I couldn't get it to load my permadeath saves. So I decided to rewrite it in Java for fun, and as I dug deeper and added more functionality it has grown to become a pretty useful tool.
+Since No Man's Sky first came out, there have been many notable game-breaking bugs as well as many parts of the game that seemed too grindy and not much fun. Some of the bugs had workarounds or later patches to fix them, but others simply stopped your progress. Either way, I just want to enjoy the game!
+
+After many tedious searches trying to find a solution, I came across a save editor that allowed me to make a change to the save file, but it was very limited in what it could do, and unless you were very careful you could screw up your save file completely. So I decided to rewrite it in Java for fun, with a more simple user interface, and as I dug deeper and added more functionality I decided to release it publicly. It has grown to become a pretty useful tool.
 
 ### Features
 
@@ -41,6 +43,11 @@ Requirements:
 3. Run the bat file (or the jar file if the file extension is associated to java).
 4. When the main window opens, locate the folder that your saves are in, and choose the most recent.
 5. Start tinkering!
+
+## Contribution
+
+This tool will always be released publicly for free, and I intend to continue maintaining it for as long as there is interest in the game. If this tool has been useful and you want to contribute to it's further development, feel free to visit me on Patreon:
+https://www.patreon.com/goatfungus
 
 ## Previous Releases
 
