@@ -1,5 +1,12 @@
 # Change Log
 
+## 1.5.9 - Update (1 August 2018)
+
+- Fixed issue where incorrect tabs were being enabled/disabled after editing raw JSON.
+- Added the ability to modify item quantity and procedural id through the item viewer.
+- Added the ability to repair damaged frigates.
+- Added an Unlearn All button for learned words.
+
 ## 1.5.8 - Update (31 July 2018)
 
 - Changed Known Words Learn All function to only learn the words that are actually used by each race.
