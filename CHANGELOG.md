@@ -1,5 +1,14 @@
 # Change Log
 
+## 1.5.10 - Update (3 August 2018)
+
+- Updated data from game files (NMS 1.53).
+- Added double click handling to Item Move dialog.
+- Added "On Mission" status indicator to frigates view.
+- Updated delete function so that it should no longer break missions in progress.
+- Added ability to change Galaxy using Coordinate Viewer.
+- Added new executables to increase memory available to the editor (with -4G suffix) for those who are encountering out of memory errors.
+
 ## 1.5.9 - Update (1 August 2018)
 
 - Fixed issue where incorrect tabs were being enabled/disabled after editing raw JSON.
