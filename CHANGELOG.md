@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.5.11 - Update (4 August 2018)
+
+- Added checkbox to allow ships to use old (pre-NEXT) models.
+- Improved font scaling, so editor should look he same regardless of O/S scaling.
+- Fixed stack size issues for various items (eg: Projectile Ammunition) which affected the Add Item, Move Item, and Change Stack Size functions.
+
 ## 1.5.10 - Update (3 August 2018)
 
 - Updated data from game files (NMS 1.53).
