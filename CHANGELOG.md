@@ -1,5 +1,13 @@
 # Change Log
 
+## 1.5.12 - Update (5 August 2018)
+
+- Rolled back change to so-called "improved" font scaling, as it didn't work properly.
+- Added "InventoryFontScale" value to config file to allow text on inventory items to be scaled up or down. Default is 0.75.
+- Updated "Use Old Models" to "Use Old Colours" in ships tab, as it only seems to affect colours.
+- Fixed Change Stack Size button to take into account item multipliers.
+- Increased maximum health to 200, as various shield tech increased maximum health beyond the previous maximum (100).
+
 ## 1.5.11 - Update (4 August 2018)
 
 - Added checkbox to allow ships to use old (pre-NEXT) models.
