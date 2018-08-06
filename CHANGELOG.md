@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.5.13 - Update (6 August 2018)
+
+- Added Atlas language to known words list.
+- Updated broken slot repair to handle salvaged ships in NEXT.
+
 ## 1.5.12 - Update (5 August 2018)
 
 - Rolled back change to so-called "improved" font scaling, as it didn't work properly.
