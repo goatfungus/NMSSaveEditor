@@ -1,5 +1,15 @@
 # Change Log
 
+## 1.5.14 - Update (8 August 2018)
+
+- Added procedural products to the items list.
+- Added ability to add procedural generated Tech / Products through the Add Item dialog.
+- Fixed an issue where only the first 4 or 5 bases were showing in the base dropdown list.
+
+**PLEASE NOTE:**
+
+- Procedurally generated names for technology / products still do not show in the editor as I haven't worked out the algorithm.
+
 ## 1.5.13 - Update (6 August 2018)
 
 - Added Atlas language to known words list.
