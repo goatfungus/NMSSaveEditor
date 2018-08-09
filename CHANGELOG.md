@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.5.15 - Update (10 August 2018)
+
+- Updated items list for NMS 1.55
+- Fixed issue where procedural tech could not be moved to technology-only inventory.
+- Added an auto-update process via the launcher executables.
+
 ## 1.5.14 - Update (8 August 2018)
 
 - Added procedural products to the items list.
