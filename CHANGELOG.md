@@ -1,5 +1,12 @@
 # Change Log
 
+## 1.5.16 - Update (15 August 2018)
+
+- Added Repair All Slots / Technology menu item.
+- Added more logging messages to debug output.
+- Updated file saving method to use the same filename instead of switching between auto/manual saves.
+- Added detection for when the game updates a save file while it is open for editing, includes an auto-load feature.
+
 ## 1.5.15 - Update (10 August 2018)
 
 - Updated items list for NMS 1.55
