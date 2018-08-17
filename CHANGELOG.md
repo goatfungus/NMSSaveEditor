@@ -1,5 +1,13 @@
 # Change Log
 
+## 1.5.17 - Update (17 August 2018)
+
+- Updated items list for NMS 1.56 (experimental)
+- Updated freighter home seed to clear the old freighter NPC structure when set.
+- Added search function to Add Item dialog.
+- Fixed some minor display issues on the main tab.
+- Fixed some missing item names in the items list (eg: Star Silk)
+
 ## 1.5.16 - Update (15 August 2018)
 
 - Added Repair All Slots / Technology menu item.
