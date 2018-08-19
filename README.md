@@ -44,6 +44,10 @@ Requirements:
 4. When the main window opens, locate the folder that your saves are in, and choose the most recent.
 5. Start tinkering!
 
+## Frequently Asked Questions
+
+Frequently asked questions can be found [here](FAQ.md).
+
 ## Contribution
 
 This tool will always be released publicly for free, and I intend to continue maintaining it for as long as there is interest in the game. If this tool has been useful and you want to contribute to it's further development, feel free to visit me on Patreon:

@@ -1,8 +1,13 @@
 # Change Log
 
+## 1.5.18 - Update (19 August 2018)
+
+- Added "Move Base Computer" function which allows users to swap their base computer with a pre-placed Signal Booster.
+- Added a new [Frequestly Asked Questions](FAQ.md) help file.
+
 ## 1.5.17 - Update (17 August 2018)
 
-- Updated items list for NMS 1.56 (experimental)
+- Updated items list for NMS 1.57
 - Updated freighter home seed to clear the old freighter NPC structure when set.
 - Added search function to Add Item dialog.
 - Fixed some minor display issues on the main tab.
