@@ -1,5 +1,12 @@
 # Change Log
 
+## 1.5.19 - Update (20 August 2018)
+
+- Changed the editor to store all backup files in new backups directory (under same directory as editor).
+- Updated save file modification detection and handling to make it more robust, and gave user much more control over the auto-load feature by providing an opt-out.
+- Added ability to backup / restore freighter bases.
+- Fixed an issue where Atlas words tickboxes could not be edited.
+
 ## 1.5.18 - Update (19 August 2018)
 
 - Added "Move Base Computer" function which allows users to swap their base computer with a pre-placed Signal Booster.
