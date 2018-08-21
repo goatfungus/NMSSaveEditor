@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.5.20 - Update (22 August 2018)
+
+- Added escapes for unicode characters in the raw JSON editor (should prevent a crash).
+- Added detection for truncated (corrupted) save files and added them to the recovery mode.
+
 ## 1.5.19 - Update (20 August 2018)
 
 - Changed the editor to store all backup files in new backups directory (under same directory as editor).
