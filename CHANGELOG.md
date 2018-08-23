@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.5.21 - Update (23 August 2018)
+
+- Updated broken slot detection to cater for the error in save file when slot is repaired in-game.
+
 ## 1.5.20 - Update (22 August 2018)
 
 - Added escapes for unicode characters in the raw JSON editor (should prevent a crash).
