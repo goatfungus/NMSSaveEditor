@@ -1,5 +1,13 @@
 # Change Log
 
+## 1.5.22 - Update (26 August 2018)
+
+- Updated items list for NMS 1.58 [experimental]
+- Added name mappings for converting new (experimental) save files into a format the editor can use.
+- Changed "Expand Inventory" button to "Resize Inventory" and allowed size reduction on inventory containers.
+
+NOTE: This version should support the 24/08 experimental build of NMS as well as the current public release (1.57).
+
 ## 1.5.21 - Update (23 August 2018)
 
 - Updated broken slot detection to cater for the error in save file when slot is repaired in-game.
