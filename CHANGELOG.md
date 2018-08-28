@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.5.23 - Update (28 August 2018)
+
+- Added more name mappings for new (experimental) save files.
+- Updated save/saveas functions so that they no longer trigger a file reload.
+- Added new Move Base Computer dialog, which allows users to select from various base parts to swap with.
+
 ## 1.5.22 - Update (26 August 2018)
 
 - Updated items list for NMS 1.58 [experimental]
