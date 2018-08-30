@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.5.24 - Update (31 August 2018)
+
+- Added more name mappings for new (experimental) save files.
+- Changed mapping function to show warnings only once per file load/save.
+
 ## 1.5.23 - Update (28 August 2018)
 
 - Added more name mappings for new (experimental) save files.
