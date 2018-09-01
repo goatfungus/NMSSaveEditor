@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.5.25 - Update (1 September 2018)
+
+- Improved logging and console output messages.
+- Fixed a number of issues with UI sizing.
+- Replaced InventoryFontScale with InventoryScaling (default=1.0) in config file.
+
 ## 1.5.24 - Update (31 August 2018)
 
 - Added more name mappings for new (experimental) save files.
