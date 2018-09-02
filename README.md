@@ -21,7 +21,7 @@ After many tedious searches trying to find a solution, I came across a save edit
 - Ability to edit the game stats that are used for milestones and faction reputation.
 - Ability to edit the raw JSON in the save file (for advanced users only).
 - Automatic backup and recovery of all saves (in case you screw up something).
-- Backup/Restore of planet base structures, usable across different systems or saves.
+- Backup/Restore of planet/freighter base structures, usable across different systems or saves.
 - Ability to manage your entire fleet of frigates.
 
 ### Screenshots
@@ -38,8 +38,8 @@ Requirements:
 
 ## Installation
 
-1. Download the [latest version](../../raw/master/NMSSaveEditor.zip).
-2. Extract the contents of the zip file to an empty folder somewhere.
+1. Download the [latest version](../../raw/master/NMSSaveEditor.exe).
+2. Run the exe and extract the contents of the zip file to an empty folder somewhere.
 3. Run the bat file (or the jar file if the file extension is associated to java).
 4. When the main window opens, locate the folder that your saves are in, and choose the most recent.
 5. Start tinkering!
