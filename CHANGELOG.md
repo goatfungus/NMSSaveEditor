@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.5.26 - Update (6 September 2018)
+
+- Updated items list to match 04/09 experimental branch.
+- Fixed a few more issues with UI sizing.
+- Added directory detection for when user runs the jar file without setting working directory path (should fix "unable to save" errors).
+
 ## 1.5.25 - Update (1 September 2018)
 
 - Improved logging and console output messages.
