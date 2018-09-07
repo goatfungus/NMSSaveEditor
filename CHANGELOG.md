@@ -1,8 +1,14 @@
 # Change Log
 
+## 1.5.27 - Update (8 September 2018)
+
+- Improved field validation (trim whitespace on input)
+- Changed procedural technology/product names to use available values instead of code names.
+- Added more name mappings for save files.
+
 ## 1.5.26 - Update (6 September 2018)
 
-- Updated items list to match 04/09 experimental branch.
+- Updated items list to match NMS 1.59
 - Fixed a few more issues with UI sizing.
 - Added directory detection for when user runs the jar file without setting working directory path (should fix "unable to save" errors).
 
@@ -14,12 +20,12 @@
 
 ## 1.5.24 - Update (31 August 2018)
 
-- Added more name mappings for new (experimental) save files.
+- Added more name mappings for new save files.
 - Changed mapping function to show warnings only once per file load/save.
 
 ## 1.5.23 - Update (28 August 2018)
 
-- Added more name mappings for new (experimental) save files.
+- Added more name mappings for new save files.
 - Updated save/saveas functions so that they no longer trigger a file reload.
 - Added new Move Base Computer dialog, which allows users to select from various base parts to swap with.
 
