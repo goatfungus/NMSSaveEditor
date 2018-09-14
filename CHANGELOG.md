@@ -1,5 +1,13 @@
 # Change Log
 
+## 1.5.28 - Update (14 September 2018)
+
+- Fixed some UI sizing issues on dialogs.
+- Added known products/technologies list to filter out procedural/maintenance items.
+- Fixed issue where modified date was not refreshing on save.
+- Updated items list for latest experimental branch.
+- Added more name mappings for save files.
+
 ## 1.5.27 - Update (8 September 2018)
 
 - Improved field validation (trim whitespace on input)
