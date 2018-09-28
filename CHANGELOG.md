@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.5.29 - Update (28 September 2018)
+
+- Updated items list to match NMS 1.61
+
 ## 1.5.28 - Update (14 September 2018)
 
 - Fixed some UI sizing issues on dialogs.
