@@ -1,5 +1,13 @@
 # Change Log
 
+## 1.5.30 - Update (2 October 2018)
+
+- Fixed issue where freighter bases aren't being saved in the correct location.
+- Updated name mapper for version 1.61.
+- Added 7x2 size limit on Exosuit - Technology inventory (to match hard-coded game rule).
+- Added procedural vehicle technologies (experimental 01/10 branch only).
+- Updated items list to match experimental 01/10 branch.
+
 ## 1.5.29 - Update (28 September 2018)
 
 - Updated items list to match NMS 1.61
