@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.5.31 - Update (6 October 2018)
+
+- Added name (Pilgrim) for new vehicle.
+- Removed Expand Inventory button for vehicles (restricted in-game).
+
 ## 1.5.30 - Update (2 October 2018)
 
 - Fixed issue where freighter bases aren't being saved in the correct location.
