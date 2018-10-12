@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.5.32 - Update (13 October 2018)
+
+- Removed the enable/disable slots feature in Exocraft inventory UI (the game restricts this now).
+- Changed Add Item function to set the stack size to 1 for technology modules
+- Fixed issue with stacking technology modules while moving to other inventories (stack size should be 1)
+
 ## 1.5.31 - Update (6 October 2018)
 
 - Added name (Pilgrim) for new vehicle.
