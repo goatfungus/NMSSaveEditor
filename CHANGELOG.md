@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.5.33 - Update (30 October 2018)
+
+- Added Nautilon Exocraft and items (added in NMS 1.7).
+- Fixed bug in filename generation for base backup/restore.
+
 ## 1.5.32 - Update (13 October 2018)
 
 - Removed the enable/disable slots feature in Exocraft inventory UI (the game restricts this now).
