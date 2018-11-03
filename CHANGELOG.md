@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.5.34 - Update (3 November 2018)
+
+- Updated items list to match NMS 1.71 patch.
+- Added "Test Mode" option to Edit menu, which removes many restrictions imposed by the editor.
+
 ## 1.5.33 - Update (30 October 2018)
 
 - Added Nautilon Exocraft and items (added in NMS 1.7).
