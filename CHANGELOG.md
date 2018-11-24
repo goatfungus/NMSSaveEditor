@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.5.35 - Update (24 November 2018)
+
+- Updated items list to match NMS 1.75 "Visions" Update.
+NOTE: There are additional name mappings needed for "Visions" that aren't yet in the editor.
+
 ## 1.5.34 - Update (3 November 2018)
 
 - Updated items list to match NMS 1.71 patch.
