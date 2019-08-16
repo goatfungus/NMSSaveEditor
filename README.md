@@ -56,3 +56,4 @@ https://www.patreon.com/goatfungus
 ## Previous Releases
 
 - [Atlas Rises (1.3)](../atlasRises/README.md)
+- [Next / Visions (1.5)](../nextVisions/README.md)
