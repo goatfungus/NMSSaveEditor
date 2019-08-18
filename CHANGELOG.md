@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.6.1 - Update (18 August 2019)
+
+- Updated words discovery UI for changes made in BEYOND.
+- Disabled change stack size feature, as it is no longer possible to do this due to in-game restrictions.
+- Updated procedural products in the items database.
+
 ## 1.6.0 - First release for BEYOND
 
 - Updated items database for No Man's Sky 2.0 (BEYOND).

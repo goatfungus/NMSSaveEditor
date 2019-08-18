@@ -1,4 +1,4 @@
-# No Man's Sky - Save Editor (for NEXT)
+# No Man's Sky - Save Editor (for BEYOND)
 
 ## Introduction
 
@@ -33,7 +33,7 @@ After many tedious searches trying to find a solution, I came across a save edit
 ## Compatibility
 
 Requirements:
-- No Man's Sky - NEXT (PC)
+- No Man's Sky - BEYOND (PC)
 - <a href="https://java.com/en/download/manual.jsp" target="_blank">Java Runtime Environment 8</a>
 
 ## Installation
