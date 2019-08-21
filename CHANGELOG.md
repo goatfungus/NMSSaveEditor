@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.6.2 - Update (21 August 2019)
+
+- Fixed issue with bases not showing up.
+- Updated name mappings to include new base info fields.
+
 ## 1.6.1 - Update (18 August 2019)
 
 - Updated words discovery UI for changes made in BEYOND.
