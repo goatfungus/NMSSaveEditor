@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.6.3 - Update (24 August 2019)
+
+- Updated items database for NMS 1.09.
+- Fixed NullPointerException in inventory panel that affected some users.
+- Fixed issue where partially-built technology was being reset when moved to another inventory (ie: ships).
+
 ## 1.6.2 - Update (21 August 2019)
 
 - Fixed issue with bases not showing up.
