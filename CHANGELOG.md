@@ -2,7 +2,7 @@
 
 ## 1.6.3 - Update (24 August 2019)
 
-- Updated items database for NMS 1.09.
+- Updated items database for NMS 2.09.
 - Fixed NullPointerException in inventory panel that affected some users.
 - Fixed issue where partially-built technology was being reset when moved to another inventory (ie: ships).
 
