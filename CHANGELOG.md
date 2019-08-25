@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.6.4 - Update (25 August 2019)
+
+- Added Ingredient Storage to base chests list.
+- Fixed minor issue when repairing new technologies.
+
 ## 1.6.3 - Update (24 August 2019)
 
 - Updated items database for NMS 1.09.
