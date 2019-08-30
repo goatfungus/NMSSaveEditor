@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.6.5 - Update (30 August 2019)
+
+- Updated name mappings to include a few more missing items.
+- Added ingredient-only restriction to Ingredient Storage container.
+
 ## 1.6.4 - Update (25 August 2019)
 
 - Added Ingredient Storage to base chests list.
