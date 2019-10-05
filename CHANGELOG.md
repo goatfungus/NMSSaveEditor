@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.6.6 - Update (6 October 2019)
+
+- Updated name mappings to include a few more missing items.
+- Added type and strength indicator to frigate traits.
+- Updated items list for current Experimental branch.
+
 ## 1.6.5 - Update (30 August 2019)
 
 - Updated name mappings to include a few more missing items.
