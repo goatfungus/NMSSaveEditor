@@ -1,5 +1,12 @@
 # Change Log
 
+## 1.6.7 - Update (17 October 2019)
+
+- Updated items list for NMS version 2.13.
+- Updated name mappings to include a few more missing items.
+- Updated type and strength indicator for frigate traits to show real in-game values.
+- Added last save date/time to save slot dropdown.
+
 ## 1.6.6 - Update (6 October 2019)
 
 - Updated name mappings to include a few more missing items.
