@@ -1,6 +1,12 @@
 # Change Log
 
-## 1.6.7 - Update (17 October 2019)
+## 1.6.8 - Update (2 December 2019)
+
+- Updated items list and name mappings for NMS version 2.2 (Synthesis).
+- Added support for additional multitools.
+- Internal improvements to the saved file structure.
+
+## 1.6.7 - Update (17 November 2019)
 
 - Updated items list for NMS version 2.13.
 - Updated name mappings to include a few more missing items.
