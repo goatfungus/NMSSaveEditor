@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.6.9 - Update (22 February 2020)
+
+- Updated items list and name mappings for NMS version 2.31 (Living Ship).
+- Added support for living ships.
+
 ## 1.6.8 - Update (2 December 2019)
 
 - Updated items list and name mappings for NMS version 2.2 (Synthesis).
