@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.6.10 - Update (23 February 2020)
+
+- Added the ability to import/export ships and multitools.
+- Fixed issue where normal ship technologies were not displaying in Add Item dialog.
+
 ## 1.6.9 - Update (22 February 2020)
 
 - Updated items list and name mappings for NMS version 2.31 (Living Ship).
