@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.6.11 - Update (26 February 2020)
+
+- Fixed issue when changing a ship type involving living ships.
+- Added 3 missing procedural products added in the Living Ship update.
+
 ## 1.6.10 - Update (23 February 2020)
 
 - Added the ability to import/export ships and multitools.
