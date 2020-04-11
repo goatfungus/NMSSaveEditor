@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.6.12 - Update (12 April 2020)
+
+- Updated items list and name mappings for NMS version 2.41 (Exo Mech).
+- Added support for minotaur exo mech.
+
 ## 1.6.11 - Update (26 February 2020)
 
 - Fixed issue when changing a ship type involving living ships.
