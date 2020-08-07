@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.6.14 - Update (7 August 2020)
+
+- Updated items list and name mappings for NMS version 2.61.
+- Added missing procedural freighter tech.
+
 ## 1.6.13 - Update (19 July 2020)
 
 - Updated items list and name mappings for NMS version 2.6 (Desolation).
