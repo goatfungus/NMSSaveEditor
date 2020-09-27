@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.7.0 - Update (27 September 2020)
+
+- Updated items list and name mappings for NMS version 3.0.
+
 ## 1.6.14 - Update (7 August 2020)
 
 - Updated items list and name mappings for NMS version 2.61.
