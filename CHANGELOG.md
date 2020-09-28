@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.7.1 - Update (28 September 2020)
+
+- Added missing technologies that apply to all ships/vehicles.
+- Fixed issue where vehicles tab was no longer accessible on some saves.
+
 ## 1.7.0 - Update (27 September 2020)
 
 - Updated items list and name mappings for NMS version 3.0.
