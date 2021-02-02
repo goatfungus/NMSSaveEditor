@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.7.2 - Update (02 February 2021)
+
+- Updated items list and name mappings for NMS version 3.1 (Next Generation)
+
 ## 1.7.1 - Update (28 September 2020)
 
 - Added missing technologies that apply to all ships/vehicles.
