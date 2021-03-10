@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.7.3 - Update (10 March 2021)
+
+- Updated items list and name mappings for NMS version 3.2 (Companions)
+- Added the ability to Export/Import the save file data in JSON format (edit with your preferred text editor)
+
 ## 1.7.2 - Update (02 February 2021)
 
 - Updated items list and name mappings for NMS version 3.1 (Next Generation)
