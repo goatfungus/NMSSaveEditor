@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.7.4 - Update (6 April 2021)
+
+- Updated items list and name mappings for NMS version 3.3 (Expeditions)
+
 ## 1.7.3 - Update (10 March 2021)
 
 - Updated items list and name mappings for NMS version 3.2 (Companions)
