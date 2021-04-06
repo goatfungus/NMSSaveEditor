@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.7.5 - Update (6 April 2021)
+
+- Added Expedition game mode to editor.
+- Updated name mappings for Expedition save file.
+
 ## 1.7.4 - Update (6 April 2021)
 
 - Updated items list and name mappings for NMS version 3.3 (Expeditions)
