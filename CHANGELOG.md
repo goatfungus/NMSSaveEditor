@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.7.6 - Update (26 May 2021)
+
+- Updated items list for NMS version 3.42 (Beachhead)
+- Added Normandy frigate type.
+
 ## 1.7.5 - Update (6 April 2021)
 
 - Added Expedition game mode to editor.
