@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.7.7 - Update (03 June 2021)
+
+- Updated items list and name mappings for NMS version 3.5 (Prisms)
+
 ## 1.7.6 - Update (26 May 2021)
 
 - Updated items list for NMS version 3.42 (Beachhead)
