@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.8.0 - Update (06 September 2021)
+
+- Updated items list and name mappings for NMS version 3.6 (Frontiers)
+- Added ability to read compressed save files
+- Expanded number of save file slots from 5 to 15
+
 ## 1.7.7 - Update (03 June 2021)
 
 - Updated items list and name mappings for NMS version 3.5 (Prisms)
