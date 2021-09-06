@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.8.1 - Update (07 September 2021)
+
+- Fixed issue where base data wasn't showing up.
+
 ## 1.8.0 - Update (06 September 2021)
 
 - Updated items list and name mappings for NMS version 3.6 (Frontiers)
