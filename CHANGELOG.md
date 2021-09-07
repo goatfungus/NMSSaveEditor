@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.8.2 - Update (08 September 2021)
+
+- Added ability to modify account data & unlocks.
+
 ## 1.8.1 - Update (07 September 2021)
 
 - Fixed issue where base data wasn't showing up.
