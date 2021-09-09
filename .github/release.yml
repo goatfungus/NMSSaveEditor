@@ -1,0 +1,29 @@
+name: Build Release
+# On tag push only release CI pipeline. Generates a release when a tag is pushed to origin.
+on:
+  push:
+    tags:
+      - 'v*'
+
+jobs:
+  create_version:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout source code
+        uses: actions/checkout@v2
+      - name: Create NMSSaveEditor Release
+        uses: papeloto/action-zip@v1
+        with:
+          # Files to be included in release. Separated by empty space.
+          files: NMSSaveEditor.exe NMSSaveEditor.jar
+          recursive: false
+          dest: NMSSaveEditor.zip
+      - name: Release
+        uses: softprops/action-gh-release@v1
+        with:
+          files: ${{ github.workspace }}/*.zip
+          # Include the changelog in the GitHub Releases page.
+          body_path: CHANGELOG.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: goatfungus/NMSSaveEditor
