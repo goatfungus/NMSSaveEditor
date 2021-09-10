@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.8.4 - Update (11 September 2021)
+
+- Fixed issue where discovery tab was not loading correctly.
+- Fixed issue where some very old saves could not be loaded at all.
+- Updated name mappings.
+
 ## 1.8.3 - Update (10 September 2021)
 
 - Added creatures to save editor UI.
