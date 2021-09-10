@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.8.3 - Update (10 September 2021)
+
+- Added creatures to save editor UI.
+
 ## 1.8.2 - Update (08 September 2021)
 
 - Added ability to modify account data & unlocks.
