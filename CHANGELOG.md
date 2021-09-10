@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.8.5 - Update (11 September 2021)
+
+- Fixed bug in companion seed values.
+
 ## 1.8.4 - Update (11 September 2021)
 
 - Fixed issue where discovery tab was not loading correctly.
