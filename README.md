@@ -1,4 +1,4 @@
-# No Man's Sky - Save Editor (for BEYOND)
+# No Man's Sky - Save Editor (for FRONTIERS)
 
 ## Introduction
 
@@ -37,7 +37,7 @@ After many tedious searches trying to find a solution, I came across a save edit
 ## Compatibility
 
 Requirements:
-- No Man's Sky - BEYOND (PC)
+- No Man's Sky - FRONTIERS (PC)
 - <a href="https://java.com/en/download/manual.jsp" target="_blank">Java Runtime Environment 8</a>
 
 ## Installation
@@ -61,3 +61,4 @@ https://www.patreon.com/goatfungus
 
 - [Atlas Rises (1.3)](../atlasRises/README.md)
 - [Next / Visions (1.5)](../nextVisions/README.md)
+- [Beyond (2.0)](../expeditionsPrisms/README.md)
