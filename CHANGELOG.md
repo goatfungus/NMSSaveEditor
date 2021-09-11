@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.8.6 - Update (11 September 2021)
+
+- Fixed bug in account tab, caused by my own haste to get the last few fixes out!
+
 ## 1.8.5 - Update (11 September 2021)
 
 - Fixed bug in companion seed values.
