@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.8.7 - Update (11 September 2021)
+
+- Fixed bug in multitool list, caused by my own haste to get the last few fixes out!
+- Updated README.md and screenshots.
+
 ## 1.8.6 - Update (11 September 2021)
 
 - Fixed bug in account tab, caused by my own haste to get the last few fixes out!

@@ -23,11 +23,15 @@ After many tedious searches trying to find a solution, I came across a save edit
 - Automatic backup and recovery of all saves (in case you screw up something).
 - Backup/Restore of planet/freighter base structures, usable across different systems or saves.
 - Ability to manage your entire fleet of frigates.
+- Ability to manage your list of companions/pets.
+- Ability to update your account data.
 
 ### Screenshots
 
-<img src="screenshots/exosuit.png" width="32%"/> <img src="screenshots/multitool.png" width="32%"/> <img src="screenshots/freighter.png" width="32%"/>
-<img src="screenshots/base.png" width="32%"/> <img src="screenshots/discovery.png" width="32%"/> <img src="screenshots/milestones.png" width="32%"/>
+<img src="screenshots/exosuit.png" width="32%"/> <img src="screenshots/multitool.png" width="32%"/> <img src="screenshots/ships.png" width="32%"/>
+<img src="screenshots/freighter.png" width="32%"/> <img src="screenshots/frigates.png" width="32%"/> <img src="screenshots/vehicles.png" width="32%"/>
+<img src="screenshots/companions.png" width="32%"/> <img src="screenshots/base.png" width="32%"/> <img src="screenshots/discovery.png" width="32%"/>
+<img src="screenshots/milestones.png" width="32%"/> <img src="screenshots/account.png" width="32%"/>
 <img src="screenshots/jsoneditor.png" width="56%"/> More screenshots can be found [here](screenshots).
 
 ## Compatibility
