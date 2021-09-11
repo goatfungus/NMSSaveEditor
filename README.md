@@ -38,7 +38,7 @@ Requirements:
 
 ## Installation
 
-1. Download the [latest version](../../raw/master/NMSSaveEditor.exe).
+1. Download the [latest version](../../raw/expeditionsPrisms/NMSSaveEditor.exe).
 2. Run the exe and extract the contents of the zip file to an empty folder somewhere.
 3. Run the bat file (or the jar file if the file extension is associated to java).
 4. When the main window opens, locate the folder that your saves are in, and choose the most recent.
