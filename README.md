@@ -24,7 +24,8 @@ After many tedious searches trying to find a solution, I came across a save edit
 - Backup/Restore of planet/freighter base structures, usable across different systems or saves.
 - Ability to manage your entire fleet of frigates.
 - Ability to manage your list of companions/pets.
-- Ability to update your account data.
+- Ability to update your account data and unlocks.
+- Now supports Steam and MS Game Pass (Xbox).
 
 ### Screenshots
 
@@ -37,7 +38,7 @@ After many tedious searches trying to find a solution, I came across a save edit
 ## Compatibility
 
 Requirements:
-- No Man's Sky - FRONTIERS (PC)
+- No Man's Sky - FRONTIERS (PC/Xbox)
 - <a href="https://java.com/en/download/manual.jsp" target="_blank">Java Runtime Environment 8</a>
 
 ## Installation

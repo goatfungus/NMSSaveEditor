@@ -1,5 +1,13 @@
 # Change Log
 
+## 1.9.1 - Update (22 September 2021)
+
+- Major overhaul of storage system, which should improve performance and allow the addition of other storage types.
+- Added support for MS Game Pass saves.
+- Updated frigates tab, and linked stats & traits.
+- Increased ship technology max size to 8x6.
+- Added ability to add freighter technology to the general slots.
+
 ## 1.8.7 - Update (11 September 2021)
 
 - Fixed bug in multitool list, caused by my own haste to get the last few fixes out!
