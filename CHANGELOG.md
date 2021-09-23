@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.9.2 - Update (23 September 2021)
+
+- Fixed stack sizes for Expedition saves.
+- Added more robust detection of invalid saves.
+
 ## 1.9.1 - Update (22 September 2021)
 
 - Major overhaul of storage system, which should improve performance and allow the addition of other storage types.
