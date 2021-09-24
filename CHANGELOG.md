@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.9.3 - Update (24 September 2021)
+
+- Fixed bug with save reloading when game is running.
+- Added Fleet Coordination stat to freighters.
+- Updated name mappings.
+
 ## 1.9.2 - Update (23 September 2021)
 
 - Fixed stack sizes for Expedition saves.
