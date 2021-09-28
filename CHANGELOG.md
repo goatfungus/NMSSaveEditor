@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.9.5 - Update (29 September 2021)
+
+- Added support for PS4 Save Wizard storage.
+- Added Settlements tab with UI for production.
+
 ## 1.9.3 - Update (24 September 2021)
 
 - Fixed bug with save reloading when game is running.
