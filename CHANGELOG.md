@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.9.6 - Update (21 October 2021)
+
+- Updated items for Expedition 4.
+
 ## 1.9.5 - Update (29 September 2021)
 
 - Added support for PS4 Save Wizard storage.
