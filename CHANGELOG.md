@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.9.7 - Update (31 October 2021)
+
+- Updated name mappings for Expedition 4.
+- Added new zip archive for when self-extracting exe is blocked by anti-virus.
+
 ## 1.9.6 - Update (21 October 2021)
 
 - Updated items for Expedition 4.
