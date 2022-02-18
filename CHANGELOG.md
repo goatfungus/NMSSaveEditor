@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.9.8 - Update (19 February 2022)
+
+- Updated items list and name mappings for NMS version 3.8 (Sentinel)
+
 ## 1.9.7 - Update (31 October 2021)
 
 - Updated name mappings for Expedition 4.
