@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.9.9 - Update (25 February 2022)
+
+- Added new multitool Type field (Standard/Royal)
+- Updated name mappings
+
 ## 1.9.8 - Update (19 February 2022)
 
 - Updated items list and name mappings for NMS version 3.8 (Sentinel)
