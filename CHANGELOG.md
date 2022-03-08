@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.9.10 - Update (9 March 2022)
+
+- Added new FontScaling setting in the NMSSaveEditor.conf file for more control over editor font sizes.
+- Updated items list and name mappings for NMS 3.84
+- Fixed bug in multitool type detection for older saves.
+
 ## 1.9.9 - Update (25 February 2022)
 
 - Added new multitool Type field (Standard/Royal)
