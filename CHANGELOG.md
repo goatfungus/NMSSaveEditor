@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.10.0 - Update (19 April 2022)
+
+- Updated items list and name mappings for NMS 3.85 (Outlaws)
+- Added new Cargo inventory for ships (named "Inflated Sacs" in living ship).
+- Added new ship type: Solar.
+
 ## 1.9.10 - Update (9 March 2022)
 
 - Added new FontScaling setting in the NMSSaveEditor.conf file for more control over editor font sizes.
