@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.10.1 - Update (21 April 2022)
+
+- Added Squadron tab with the ability to modify the wingman data.
+- Updated name mappings
+
 ## 1.10.0 - Update (19 April 2022)
 
 - Updated items list and name mappings for NMS 3.85 (Outlaws)
