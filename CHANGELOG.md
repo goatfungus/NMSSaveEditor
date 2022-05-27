@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.10.2 - Update (27 May 2022)
+
+- Updated name mappings and items for NMS 3.90 (Leviathan)
+
 ## 1.10.1 - Update (21 April 2022)
 
 - Added Squadron tab with the ability to modify the wingman data.
