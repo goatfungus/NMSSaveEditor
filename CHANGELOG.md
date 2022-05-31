@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.10.4 - Update (1 July 2022)
+
+- Added Leviathan frigate to list of frigate types.
+
 ## 1.10.3 - Update (1 July 2022)
 
 - Updated name mappings for NMS 3.91
