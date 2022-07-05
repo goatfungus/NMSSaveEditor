@@ -1,0 +1,18 @@
+[DEBUG] Java Vendor: Red Hat, Inc.
+[DEBUG] Java Version: 17.0.3
+[DEBUG] Working Dir: /home/sapry/Documents/NMSSaveEditor/Programs/Universal
+[WARNING] Could not set windows look and feel
+[WARNING] java.lang.ClassNotFoundException: com.sun.java.swing.plaf.windows.WindowsLookAndFeel
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:520)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:467)
+	at java.desktop/javax.swing.SwingUtilities.loadSystemClass(SwingUtilities.java:2036)
+	at java.desktop/javax.swing.UIManager.setLookAndFeel(UIManager.java:638)
+	at nomanssave.aV.init(Unknown Source)
+	at nomanssave.Application.main(Unknown Source)
+[INFO] Starting Editor...
+[DEBUG] Mem Usage: 262/4096 MB
+[DEBUG] Latest version: "1.10.4"
+[DEBUG] Current version: "1.10.4"
