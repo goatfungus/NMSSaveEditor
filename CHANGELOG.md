@@ -1,5 +1,12 @@
 # Change Log
 
+## 1.10.5 - Update (22 July 2022)
+
+- Split savegame and account name mapping lists due to conflicts.
+- Updated name mappings and items for NMS 3.94 (Endurance).
+- Added new living frigate types and fixed a few issues in trait setup.
+- Added Freighter Cargo inventory.
+
 ## 1.10.4 - Update (1 July 2022)
 
 - Added Leviathan frigate to list of frigate types.
