@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.10.6 - Update (25 July 2022)
+
+- Fixed issue with Living (DeepSpaceCommon) frigates.
+- Fixed issue with bases not showing up after update.
+
 ## 1.10.5 - Update (22 July 2022)
 
 - Split savegame and account name mapping lists due to conflicts.
