@@ -1,4 +1,4 @@
-# No Man's Sky - Save Editor (for FRONTIERS)
+# No Man's Sky - Save Editor (for Endurance)
 
 ## Introduction
 
@@ -39,7 +39,7 @@ After many tedious searches trying to find a solution, I came across a save edit
 ## Compatibility
 
 Requirements:
-- No Man's Sky - FRONTIERS (PC/Xbox/PS4)
+- No Man's Sky - ENDURANCE (PC/Xbox/PS4)
 - <a href="https://www.savewizard.net/" target="_blank">Save Wizard</a> (PS4 only)
 - <a href="https://java.com/en/download/manual.jsp" target="_blank">Java Runtime Environment 8</a>
 
