@@ -1,4 +1,4 @@
-# No Man's Sky - Save Editor (for Endurance)
+# No Man's Sky - Save Editor (for ENDURANCE)
 
 ## Introduction
 
