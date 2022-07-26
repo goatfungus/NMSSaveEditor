@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.10.7 - Update (27 July 2022)
+
+- Added missing LandJellyFish and SpaceFloater creature types.
+
 ## 1.10.6 - Update (25 July 2022)
 
 - Fixed issue with Living (DeepSpaceCommon) frigates.
