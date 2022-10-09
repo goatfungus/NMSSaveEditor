@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.11.1 - Update (9 October 2022)
+
+- Added Relaxed and Custom game modes.
+
 ## 1.11.0 - Update (9 October 2022)
 
 - Updated name mappings and items for NMS 4.03 (Waypoint).
