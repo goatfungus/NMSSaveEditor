@@ -1,5 +1,12 @@
 # Change Log
 
+## 1.11.0 - Update (9 October 2022)
+
+- Updated name mappings and items for NMS 4.03 (Waypoint).
+- Updated inventory structures for Waypoint saves.
+- Removed change stack sizes button (test mode).
+- Implemented numerous fixes for new save format.
+
 ## 1.10.7 - Update (27 July 2022)
 
 - Added missing LandJellyFish and SpaceFloater creature types.
