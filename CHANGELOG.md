@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.11.2 - Update (10 October 2022)
+
+- Increased technology inventory sizes for Suit/Ship/Freighter to 10x6.
+- Added fix for corrupted account data files.
+- Implemented more fixes for save format including metadata.
+
 ## 1.11.1 - Update (9 October 2022)
 
 - Added Relaxed and Custom game modes.
