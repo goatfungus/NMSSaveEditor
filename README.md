@@ -1,4 +1,4 @@
-# No Man's Sky - Save Editor (for FRONTIERS)
+# No Man's Sky - Save Editor (for WAYPOINT)
 
 ## Introduction
 
