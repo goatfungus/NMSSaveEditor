@@ -41,8 +41,8 @@ After many tedious searches trying to find a solution, I came across a save edit
 
 <img src="screenshots/exosuit.png" width="32%"/> <img src="screenshots/multitool.png" width="32%"/> <img src="screenshots/ships.png" width="32%"/>
 <img src="screenshots/freighter.png" width="32%"/> <img src="screenshots/frigates.png" width="32%"/> <img src="screenshots/vehicles.png" width="32%"/>
-<img src="screenshots/companions.png" width="32%"/> <img src="screenshots/base.png" width="32%"/> <img src="screenshots/discovery.png" width="32%"/>
-<img src="screenshots/milestones.png" width="32%"/> <img src="screenshots/account.png" width="32%"/>
+<img src="screenshots/companions.png" width="32%"/> <img src="screenshots/base.png" width="32%"/> <img src="screenshots/settlements.png" width="32%"/>
+<img src="screenshots/discovery.png" width="32%"/> <img src="screenshots/milestones.png" width="32%"/> <img src="screenshots/account.png" width="32%"/>
 <img src="screenshots/jsoneditor.png" width="56%"/> More screenshots can be found [here](screenshots).
 
 ## Compatibility
