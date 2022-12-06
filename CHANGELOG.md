@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.11.3 - Update (7 December 2022)
+
+- Added new items.
+
 ## 1.11.2 - Update (10 October 2022)
 
 - Increased technology inventory sizes for Suit/Ship/Freighter to 10x6.
