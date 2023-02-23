@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.11.4 - Update (24 February 2023)
+
+- Added new items.
+
 ## 1.11.3 - Update (7 December 2022)
 
 - Added new items.
