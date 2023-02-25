@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.11.5 - Update (25 February 2023)
+
+- Updated name mappings for NMS 4.1 (Fractal).
+
 ## 1.11.4 - Update (24 February 2023)
 
 - Added new items.
