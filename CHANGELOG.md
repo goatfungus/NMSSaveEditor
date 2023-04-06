@@ -1,5 +1,14 @@
 # Change Log
 
+## 1.11.6 - Update (7 April 2023)
+
+- Updated name mappings for NMS 4.2 (Interceptor).
+- Added new items
+- Added new sentinel ship type
+- Added missing creature types (spider quads & mini robo)
+- Added supercharge feature for tech inventories
+- Added sentinel and switch multitools
+
 ## 1.11.5 - Update (25 February 2023)
 
 - Updated name mappings for NMS 4.1 (Fractal).
