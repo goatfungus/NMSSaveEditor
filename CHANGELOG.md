@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.11.7 - Update (8 April 2023)
+
+- Added supercharge all slots context menu item
+- Added supercharge feature for suit tech inventory
+- Fixed potential bug with multitool indexing, blocking saves
+
 ## 1.11.6 - Update (7 April 2023)
 
 - Updated name mappings for NMS 4.2 (Interceptor).
