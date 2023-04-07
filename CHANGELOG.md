@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.11.8 - Update (8 April 2023)
+
+- Added Golden Vector and Utopia Speeder to ship types
+
 ## 1.11.7 - Update (8 April 2023)
 
 - Added supercharge all slots context menu item
