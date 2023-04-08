@@ -1,4 +1,4 @@
-# No Man's Sky - Save Editor (for WAYPOINT)
+# No Man's Sky - Save Editor (for INTERCEPTOR)
 
 ## Introduction
 
@@ -20,9 +20,9 @@ After many tedious searches trying to find a solution, I came across a save edit
 - Organize and manage inventories (Exosuit, Multitools, Ships, Freighter, Vehicles, and Base Storages)
   - Move items and technology around.
     - Drag & drop to move in the same inventory
-	- Right-click menu to move to another inventory
+    - Right-click menu to move to another inventory
   - Add items and technology.
-	- CTRL + Drag & drop to clone same item / technology
+    - CTRL + Drag & drop to clone same item / technology
     - Right-click menu to choose specific item / technology
   - View more information about each of the items in your inventory, such as in-game description, names, etc.
   - Repair, Recharge and Refill items / technologies (right-click menu)
@@ -30,7 +30,7 @@ After many tedious searches trying to find a solution, I came across a save edit
   - Vanilla inventory limits (Cargo - 10x12 / Technology - 10x6 / Base Storage - 10x5) (**WARNING! You CAN go above this, but the game might BREAK!**)
 - Edit the raw JSON in the save file (for advanced users only).
 - Automatic backup and recovery of all saves (in case you screw up something).
-- Backup/Restore of Planet/Freighter Base Structures (Usable across different systems or saves)
+- Backup/Restore of Base/Freighter Structures (Usable across different systems or saves)
 - Delete or Export/Import Multitools, Ships and Frigates.
 - Edit and toggle:
   - Known Technologies, Products, Words and Glyphs.
@@ -48,7 +48,7 @@ After many tedious searches trying to find a solution, I came across a save edit
 ## Compatibility
 
 Requirements:
-- No Man's Sky - WAYPOINT (PC/Xbox/PS4)
+- No Man's Sky - INTERCEPTOR (PC/Xbox/PS4)
 - <a href="https://www.savewizard.net/" target="_blank">Save Wizard</a> (PS4 only)
 - <a href="https://java.com/en/download/manual.jsp" target="_blank">Java Runtime Environment 8</a>
 

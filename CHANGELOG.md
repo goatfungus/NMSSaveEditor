@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.12.0 - Update (9 April 2023)
+
+- Overhaul of export/import functionality for freighters to include more details and inventory data
+- Added Horizon Vector NX ship type
+- Added Product/Substance export checkbox to ship/freighter backup dialogs
+
 ## 1.11.9 - Update (8 April 2023)
 
 - Added maneuverability stat for all ship types
