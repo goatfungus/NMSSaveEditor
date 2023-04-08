@@ -1,5 +1,12 @@
 # Change Log
 
+## 1.11.9 - Update (8 April 2023)
+
+- Added maneuverability stat for all ship types
+- Updated bases list to include newer base versions
+- Re-enabled backup/restore function for bases / freighter bases
+- Updated inventory stack sizes to reflect the real container settings
+
 ## 1.11.8 - Update (8 April 2023)
 
 - Added Golden Vector and Utopia Speeder to ship types
