@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.13.2 - Update (24 April 2023)
+
+- Fixed array removal issue (affecting supercharge, data imports, and account unlocks)
+
 ## 1.13.1 - Update (23 April 2023)
 
 - Fixed "invalid token" issue caused by mixed character encodings
