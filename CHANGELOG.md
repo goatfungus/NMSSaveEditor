@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.13.1 - Update (23 April 2023)
+
+- Fixed "invalid token" issue caused by mixed character encodings
+- Changed JSON Editor to start from first tree node (PlayerStateData / UserSettingsData)
+
 ## 1.13.0 - Update (23 April 2023)
 
 - Overhaul of JSON reader/writer functionality to improve support for unicode
