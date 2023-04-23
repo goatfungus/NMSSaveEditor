@@ -1,5 +1,15 @@
 # Change Log
 
+## 1.13.0 - Update (23 April 2023)
+
+- Overhaul of JSON reader/writer functionality to improve support for unicode
+- Improved responsiveness of all file open/save dialogs
+- Added missing name mappings
+- Added save name / description fields to main UI
+- Fixed issue where consumable products were defaulting to stack size 1
+- Added platform rewards to Account tab
+- Changed NMSSaveEditor.conf format to JSON
+
 ## 1.12.0 - Update (9 April 2023)
 
 - Overhaul of export/import functionality for freighters to include more details and inventory data
