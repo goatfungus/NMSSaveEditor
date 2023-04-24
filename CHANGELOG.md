@@ -1,5 +1,12 @@
 # Change Log
 
+## 1.13.4 - Update (25 April 2023)
+
+- Improved delete/import functionality for multitool/ship/companion lists
+- Added missing techboxes and companion eggs to item lists
+- Updated stack size rules to match game files
+- Tweaked PS4-SaveWizard format to allow for name mappings (if available)
+
 ## 1.13.3 - Update (24 April 2023)
 
 - Added base storage container names
