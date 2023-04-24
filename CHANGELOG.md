@@ -1,5 +1,13 @@
 # Change Log
 
+## 1.13.3 - Update (24 April 2023)
+
+- Added base storage container names
+- Fixed issues with multitool updates / deletions
+- Added support for extended JS string formats in import/export
+- Reduced the number of property change events caused by array changes
+- Fixed NPE in steam storage
+
 ## 1.13.2 - Update (24 April 2023)
 
 - Fixed array removal issue (affecting supercharge, data imports, and account unlocks)
