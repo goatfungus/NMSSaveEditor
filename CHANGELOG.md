@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.13.5 - Update (25 April 2023)
+
+- Fixed issues with JSON Editor
+
 ## 1.13.4 - Update (25 April 2023)
 
 - Improved delete/import functionality for multitool/ship/companion lists
