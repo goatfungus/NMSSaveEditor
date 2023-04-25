@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.13.6 - Update (25 April 2023)
+
+- Updated name mapper to support files that are incorrectly mapped (PS4 Save Wizard)
+
 ## 1.13.5 - Update (25 April 2023)
 
 - Fixed issues with JSON Editor
