@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.13.8 - Update (29 April 2023)
+
+- Another fix for the issue with \uFFFF encodings in JSON Editor (hopefully the last)
+
 ## 1.13.7 - Update (28 April 2023)
 
 - Fixed issue with \uFFFF encodings in JSON Editor
