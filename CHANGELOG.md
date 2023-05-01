@@ -1,5 +1,13 @@
 # Change Log
 
+## 1.13.9 - Unreleased
+
+- Improved Add Item dialog search feature
+- Implemented archived technology packages properly in UI
+- Removed unused inventory containers from UI
+- Updated Move Item dialog to show names of multitool/ship where possible
+- Fixed issue with sorters on discovery tab
+
 ## 1.13.8 - Update (29 April 2023)
 
 - Another fix for the issue with \uFFFF encodings in JSON Editor (hopefully the last)
