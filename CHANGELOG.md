@@ -1,6 +1,6 @@
 # Change Log
 
-## 1.13.9 - Unreleased
+## 1.13.9 - Update (1 May 2023)
 
 - Improved Add Item dialog search feature
 - Implemented archived technology packages properly in UI
