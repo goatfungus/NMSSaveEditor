@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.13.10 - Update (3 May 2023)
+
+- Updated techbox icons and text
+- Fixed potential issue with icons on discovery tab
+
 ## 1.13.9 - Update (1 May 2023)
 
 - Improved Add Item dialog search feature
