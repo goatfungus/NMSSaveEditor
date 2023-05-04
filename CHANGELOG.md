@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.13.11 - Update (5 May 2023)
+
+- Fixed remaining issues on Discovery / Account tab
+- Set up legacyUI branch
+
 ## 1.13.10 - Update (3 May 2023)
 
 - Updated techbox icons and text
