@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.14.0 - Update (4 May 2023)
+
+- Full overhaul of the editor UI, using selectable Look & Feel options (including Dark mode)
+
 ## 1.13.10 - Update (3 May 2023)
 
 - Updated techbox icons and text
