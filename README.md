@@ -9,6 +9,7 @@ After many tedious searches trying to find a solution, I came across a save edit
 ### Features
 
 - Easy to use UI.
+  - Ability to customise Look & Feel (Light / Dark modes, inventory scaling)
 - Change data values:
   - Currencies (Units, Nanites and Quicksilver)
   - Base stats for Exosuit, Multitools, Ships and Freighter (Health, Shield, Type, Class, Seed, etc.)
@@ -43,7 +44,7 @@ After many tedious searches trying to find a solution, I came across a save edit
 <img src="screenshots/freighter.png" width="32%"/> <img src="screenshots/frigates.png" width="32%"/> <img src="screenshots/vehicles.png" width="32%"/>
 <img src="screenshots/companions.png" width="32%"/> <img src="screenshots/base.png" width="32%"/> <img src="screenshots/settlements.png" width="32%"/>
 <img src="screenshots/discovery.png" width="32%"/> <img src="screenshots/milestones.png" width="32%"/> <img src="screenshots/account.png" width="32%"/>
-<img src="screenshots/jsoneditor.png" width="56%"/> More screenshots can be found [here](screenshots).
+<img src="screenshots/jsoneditor.png" width="56%"/> <img src="screenshots/darkmode.png" width="32%"/> More screenshots can be found [here](screenshots).
 
 ## Compatibility
 
@@ -74,3 +75,4 @@ https://www.patreon.com/goatfungus
 - [Atlas Rises (1.3)](../atlasRises/README.md)
 - [Next / Visions (1.5)](../nextVisions/README.md)
 - [Beyond (2.0)](../expeditionsPrisms/README.md)
+- [Interceptor - Legacy UI](../legacyUI/README.md)

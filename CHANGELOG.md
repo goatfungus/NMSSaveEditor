@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.14.1 - Update (5 May 2023)
+
+- Updated logging functionality
+
 ## 1.14.0 - Update (4 May 2023)
 
 - Full overhaul of the editor UI, using selectable Look & Feel options (including Dark mode)
