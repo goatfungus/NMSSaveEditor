@@ -1,5 +1,16 @@
 # Change Log
 
+## 1.14.2 - Update (5 June 2023)
+
+- Improved settlement listing to show only settlements with teleport endpoints.
+- Updated settlement perks to allow any number of perks (determined by save file).
+- Fixed issue where non-technology items were showing up as broken due to damage factor.
+- Fixed highlight color in JSON editor so that it works in dark mode.
+- Updated UI colors for positive and negative traits / perks.
+- Updated coordinate viewer to allow any first glyph (warp still only goes to space).
+- Updated mappings for NMS 4.26
+- Removed buildable parts from add item dialog.
+
 ## 1.14.1 - Update (5 May 2023)
 
 - Updated logging functionality
