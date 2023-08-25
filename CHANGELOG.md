@@ -1,5 +1,12 @@
 # Change Log
 
+## 1.14.3 - Update (26 August 2023)
+
+- Updated name mappings for NMS 4.40 (Echoes).
+- Added new Autophage language to discovery tab.
+- Added new Multitool types (Staff, etc).
+- Added new season rewards, items, etc.
+
 ## 1.14.2 - Update (5 June 2023)
 
 - Improved settlement listing to show only settlements with teleport endpoints.
