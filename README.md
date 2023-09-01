@@ -57,9 +57,11 @@ Requirements:
 
 1. Download the [latest version](../../raw/master/NMSSaveEditor.exe).
 2. Run the exe and extract the contents of the zip file to an empty folder somewhere.
-3. Run the bat file (or the jar file if the file extension is associated to java).
-4. When the main window opens, locate the folder that your saves are in, and choose the most recent.
-5. Start tinkering!
+3. 
+   1. Windows, Run the bat file (or the jar file if the file extension is associated to java).
+   2. Linux, With the terminal go inside the ffolder extracted and run `java -jar ./NMSSaveEditor.jar`
+5. When the main window opens, locate the folder that your saves are in, and choose the most recent.
+6. Start tinkering!
 
 ## Frequently Asked Questions
 
