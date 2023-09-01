@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.14.4 - Update (01 September 2023)
+
+- Updated items list.
+- Fixed issues with known words section.
+- Fixed issues with file paths.
+
 ## 1.14.3 - Update (26 August 2023)
 
 - Updated name mappings for NMS 4.40 (Echoes).
