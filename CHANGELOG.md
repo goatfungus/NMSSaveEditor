@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.15.1 - Update (17 February 2024)
+
+- Added expedition context for save files.
+
 ## 1.15.0 - Update (17 February 2024)
 
 - Updated name mappings for NMS 4.51 (Omega).
