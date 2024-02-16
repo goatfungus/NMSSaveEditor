@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.15.0 - Update (17 February 2024)
+
+- Updated name mappings for NMS 4.51 (Omega).
+- Added new season rewards, items, etc.
+- Updated to new save file format.
+
 ## 1.14.4 - Update (01 September 2023)
 
 - Updated items list.
