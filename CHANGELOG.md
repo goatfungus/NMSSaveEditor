@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.15.2 - Update (17 February 2024)
+
+- Added new freighter, multitool, and ship types for Omega.
+
 ## 1.15.1 - Update (17 February 2024)
 
 - Added expedition context for save files.
