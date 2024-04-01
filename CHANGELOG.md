@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.15.3 - Update (02 April 2024)
+
+- Updated items and name mappings for NMS 4.63 (Orbital).
+- Fixed directory issues with file open/save dialogs
+- Added customisation parts to add item dialogs
+
 ## 1.15.2 - Update (17 February 2024)
 
 - Added new freighter, multitool, and ship types for Omega.
