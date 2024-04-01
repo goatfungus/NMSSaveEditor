@@ -1,4 +1,4 @@
-# No Man's Sky - Save Editor (for INTERCEPTOR)
+# No Man's Sky - Save Editor (for ORBITAL)
 
 ## Introduction
 
