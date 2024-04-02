@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.15.4 - Update (02 April 2024)
+
+- Overhaul of the WGS / XBox Game Pass save file format.
+
 ## 1.15.3 - Update (02 April 2024)
 
 - Updated items and name mappings for NMS 4.63 (Orbital).
