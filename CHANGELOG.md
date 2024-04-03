@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.15.5 - Update (03 April 2024)
+
+- Fixes for the WGS / XBox Game Pass meta data format.
+
 ## 1.15.4 - Update (02 April 2024)
 
 - Overhaul of the WGS / XBox Game Pass save file format.
