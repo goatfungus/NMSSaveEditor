@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.16.0 - Update (06 June 2024)
+
+- Updated items and name mappings for NMS 4.71 (Adrift).
+
 ## 1.15.6 - Update (04 April 2024)
 
 - More fixes for the WGS / XBox Game Pass meta data format.

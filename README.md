@@ -1,4 +1,4 @@
-# No Man's Sky - Save Editor (for ORBITAL)
+# No Man's Sky - Save Editor (for ADRIFT)
 
 ## Introduction
 
