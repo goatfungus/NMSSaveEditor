@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.17.0 - Update (21 July 2024)
+
+- Updated items and name mappings for NMS 5.0 (Worlds Part 1).
+- Updated metadata save format for Steam version
+
 ## 1.16.0 - Update (06 June 2024)
 
 - Updated items and name mappings for NMS 4.71 (Adrift).

@@ -1,4 +1,4 @@
-# No Man's Sky - Save Editor (for ADRIFT)
+# No Man's Sky - Save Editor (for WORLDS)
 
 ## Introduction
 
@@ -49,7 +49,7 @@ After many tedious searches trying to find a solution, I came across a save edit
 ## Compatibility
 
 Requirements:
-- No Man's Sky - INTERCEPTOR (PC/Xbox/PS4)
+- No Man's Sky - WORLDS (PC/Xbox/PS4)
 - <a href="https://www.savewizard.net/" target="_blank">Save Wizard</a> (PS4 only)
 - <a href="https://java.com/en/download/manual.jsp" target="_blank">Java Runtime Environment 8</a>
 
@@ -76,3 +76,4 @@ https://www.patreon.com/goatfungus
 - [Next / Visions (1.5)](../nextVisions/README.md)
 - [Beyond (2.0)](../expeditionsPrisms/README.md)
 - [Interceptor - Legacy UI](../legacyUI/README.md)
+- [Adrift (4.5)](../adrift/README.md)
