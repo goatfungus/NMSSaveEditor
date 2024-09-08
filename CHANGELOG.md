@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.17.2 - Update (09 September 2024)
+
+- Updated items and name mappings for NMS 5.11 (Aquarius).
+
 ## 1.17.1 - Update (21 July 2024)
 
 - Fixed issue with metadata save format for Steam version
