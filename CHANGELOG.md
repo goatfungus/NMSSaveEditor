@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.17.3 - Update (15 September 2024)
+
+- Added missing name mappings.
+- Fix for WGS / XBox Game Pass save file format.
+
 ## 1.17.2 - Update (09 September 2024)
 
 - Updated items and name mappings for NMS 5.11 (Aquarius).
