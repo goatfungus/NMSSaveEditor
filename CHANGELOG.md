@@ -1,6 +1,6 @@
 # Change Log
 
-## 1.17.3 - Update (15 September 2024)
+## 1.17.4 - Update (15 September 2024)
 
 - Added missing name mappings.
 - Fix for WGS / XBox Game Pass save file format.
