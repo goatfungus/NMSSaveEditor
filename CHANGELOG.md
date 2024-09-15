@@ -1,9 +1,11 @@
 # Change Log
 
-## 1.17.4 - Update (15 September 2024)
+## 1.17.5 - Update (15 September 2024)
 
 - Added missing name mappings.
 - Fix for WGS / XBox Game Pass save file format.
+- Added Skiff to vehicles section
+- Added Fish items
 
 ## 1.17.2 - Update (09 September 2024)
 
