@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.17.6 - Update (26 October 2024)
+
+- Added new items / rewards for NMS 5.21 (Cursed).
+- Fix for Steam save file format
+
 ## 1.17.5 - Update (15 September 2024)
 
 - Added missing name mappings.
