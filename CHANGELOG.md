@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.17.7 - Update (28 October 2024)
+
+- Updated name mappings for NMS 5.21 (Cursed).
+- Additional fixes for metadata formats
+
 ## 1.17.6 - Update (26 October 2024)
 
 - Added new items / rewards for NMS 5.21 (Cursed).
