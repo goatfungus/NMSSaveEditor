@@ -70,6 +70,7 @@ _NOTE: Some antivirus solutions actually falsely flag the above EXE file as a "v
 1. Download the zip file manually from here: [https://github.com/goatfungus/NMSSaveEditor/raw/master/NMSSaveEditor.zip](../../raw/master/NMSSaveEditor.zip).
 2. Open the zip file with 7-Zip / WinRar (or equivalent).
 <img src="zipcontents.png"/>
+
 3. Extract the files to an empty folder somewhere. DO NOT try to run the program from inside the zip file!
 4. Run the bat file (or the jar file if the file extension is associated to java).
 5. When the main window opens, locate the folder that your saves are in, and choose the most recent.
