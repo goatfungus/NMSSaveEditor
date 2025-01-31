@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.18.0 - Update (1 February 2025)
+
+- Updated name mappings for NMS 5.5 (Worlds II).
+- Added new items / rewards
+
 ## 1.17.7 - Update (28 October 2024)
 
 - Updated name mappings for NMS 5.21 (Cursed).
