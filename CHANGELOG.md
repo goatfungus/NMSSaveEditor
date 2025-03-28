@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.18.1 - Update (29 March 2025)
+
+- Updated name mappings for NMS 5.6 (Relics).
+- Added new items / rewards
+
 ## 1.18.0 - Update (1 February 2025)
 
 - Updated name mappings for NMS 5.5 (Worlds II).
