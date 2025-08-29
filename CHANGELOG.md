@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.19.2 - Update (29 August 2025)
+- Updated name mappings for NMS 6.1 (Voyagers).
+- Added new Voyagers corvette-class starship components with temporary icons.
+
 ## 1.18.1 - Update (29 March 2025)
 
 - Updated name mappings for NMS 5.6 (Relics).
