@@ -1,5 +1,11 @@
 # Change Log
 
+## 1.19.0 - Update (30 August 2025)
+
+- Updated name mappings for NMS 6.0 (Voyagers).
+- Added new items / rewards
+- Added new Corvette ship type
+
 ## 1.18.1 - Update (29 March 2025)
 
 - Updated name mappings for NMS 5.6 (Relics).
