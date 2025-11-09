@@ -1,5 +1,48 @@
 # Change Log
 
+## 1.19.14 - Update (9 November 2025)
+- Renamed Elixir of Blood items to add glyph number.
+
+## 1.19.13 - Update (9 November 2025)
+- Fix for Aeron Trail from EXP20/6.10 (Breach).
+
+## 1.19.12 - Update (29 October 2025)
+- Added rewards unlocks from EXP20/6.10 (Breach).
+
+## 1.19.11 - Update (29 October 2025)
+- Added Aeron corvette parts from EXP20/6.10 (Breach) to items list.
+
+## 1.19.10 - Update (27 October 2025)
+- Added Debris Rangefinder from 6.10 (Breach) to items list.
+
+## 1.19.9 - Update (24 October 2025)
+- Added initial support for new corvette parts from base game (not expedition rewards) for 6.10 (Breach).
+
+## 1.19.8 - Update (23 October 2025)
+- Added mappings for NMS 6.10 (Breach).
+
+## 1.19.7 - Update (10 September 2025)
+- Added 6.05 experimental mappings.
+
+## 1.19.6 - Update (8 September 2025)
+- Added expedition 19 mappings.
+
+## 1.19.5 - Update (5 September 2025)
+- Added Thermal Grille Cap to Corvette part list.
+
+## 1.19.4 - Update (5 September 2025)
+- Add second Vesper Diffuser version to Corvette part list.
+
+## 1.19.3 - Update (3 September 2025)
+- Update corvette part stack size for NMS 6.03.
+
+## 1.19.2 - Update (3 September 2025)
+- Correct additional Corvette parts types.
+
+## 1.19.1 - Update (1 September 2025)
+- Updated additional missing name mappings for NMS 6.0 (Voyagers).
+- Change Corvette ship parts from Building Part to Customisation Parts to restore inventory search.
+
 ## 1.19.0 - Update (30 August 2025)
 
 - Updated name mappings for NMS 6.0 (Voyagers).
