@@ -1,5 +1,10 @@
 # Change Log
 
+## 1.20.0 - Update (04 March 2026)
+
+- Updated name mappings for NMS 6.2 (Remnant).
+- Added new items / rewards
+
 ## 1.19.0 - Update (30 August 2025)
 
 - Updated name mappings for NMS 6.0 (Voyagers).
