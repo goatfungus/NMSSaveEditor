@@ -20,7 +20,7 @@ New ship models were added in the NEXT update, and many websites that hosted shi
 
 **Why does the terrain appear inside my base buildings when I restore from a backup?**
 
-The game itself doesn't store all terrain modifications indefinately, and over time even unedited saves with underground bases can fill up with dirt. This is a known bug in the game which needs to be fixed, and when it is eventually fixed it would likely solve the issue with restores at the same time. We will just need to wait and see.
+The game itself doesn't store all terrain modifications indefinitely, and over time even unedited saves with underground bases can fill up with dirt. This is a known bug in the game which needs to be fixed, and when it is eventually fixed it would likely solve the issue with restores at the same time. We will just need to wait and see.
 
 **How do I use the "Move Base Computer" function?**
 
