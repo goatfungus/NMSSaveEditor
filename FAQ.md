@@ -54,3 +54,14 @@ Not yet. Coming soon.
 **Why doesn't the Extreme Survival milestone work?**
 
 It does work. The problem is that the game needs to tick over the counter to grant you the achievement. You can do this in-game by simply landing on an extreme planet and waiting a few seconds.
+
+## Storage
+
+**How do I increase the size of my Storage Containers?**
+
+- Select the `Bases & Storage` tab.
+- Select a base.
+- Select a "Chest", click `Resize Inventory` and enter the desired size (maximum is 8x6).
+- Right-click on one of the chest's slots and select `Enable All Slots`.
+
+Repeat this process for every chest and every base.
