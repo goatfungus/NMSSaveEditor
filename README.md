@@ -76,6 +76,55 @@ _NOTE: Some antivirus solutions actually falsely flag the above EXE file as a "v
 5. When the main window opens, locate the folder that your saves are in, and choose the most recent.
 6. Start tinkering!
 
+### Option 3 - Linux & Steam Deck Guide
+
+You can easily run the NMS Save Editor on Linux or Steam Deck by running the `.jar` package using Java.
+
+#### Step 1: Install Java (JRE)
+
+To run the JAR file, you need Java installed on your system.
+For the **Steam Deck**:
+1. Download Java JRE from an official source (e.g., [Adoptium](https://adoptium.net/) or Oracle). Choose **Linux**, **x64**, **JRE**, and a modern version such as **21-LTS**.
+2. Extract the downloaded archive somewhere on your system (e.g., your `Downloads` folder).
+3. From your Home folder, navigate to `~/.local/share/applications` (you may need to enable "Show Hidden Files" in your file manager to see the `.local` folder).
+4. Right-click in the directory, create a new text file named `Java.desktop`, and add the following content (making sure to replace `/home/deck/Downloads` with the actual path where you extracted the Java JRE):
+   ```ini
+   [Desktop Entry]
+   Name=Java
+   Comment=Java
+   Keywords=java
+   Exec=/home/deck/Downloads/jdk-21.0.6+7-jre/bin/java -jar %f
+   Terminal=false
+   Type=Application
+   MimeType=application/x-java-archive
+   NoDisplay=true
+   ```
+5. Save and close the file. You can now double-click any `.jar` file to run it.
+
+On other **Linux distributions**, you can simply install Java via your package manager (e.g., `sudo apt install default-jre` on Debian/Ubuntu, or `sudo dnf install java-latest-openjdk` on Fedora).
+
+#### Step 2: Download and Extract the Editor
+
+1. Download the manual zip version of the NMS Save Editor from [Option 2](#option-2---manual-zip-download).
+2. Extract the contents of the zip file to a folder of your choice.
+
+#### Step 3: Create a Shortcut to Save Files (Optional)
+
+Steam games running under Proton store their save files deep inside Steam's virtual Wine prefixes. Creating a desktop shortcut/link to your `compatdata` directory makes it much easier to open your saves in the editor.
+1. Navigate to `/home/deck/.local/share/Steam/steamapps` (or `~/.local/share/Steam/steamapps` on standard Linux installations).
+2. Right-click on the `compatdata` folder and choose **Copy Location** (or "Copy").
+3. Go to your desktop, right-click, choose **Create New** -> **Link to File or Directory...**.
+4. Name the link `compatdata` and paste the path you copied.
+
+#### Step 4: Run and Open Your Saves
+
+1. Open the folder where you extracted the NMS Save Editor.
+2. Run `NMSSaveEditor.jar` (by double-clicking it, or by running `java -jar NMSSaveEditor.jar` in a terminal).
+3. When prompted to select your save's path, or by clicking **File > Open File/Path**, navigate to your Steam saves:
+   - Go to your desktop `compatdata` shortcut (or navigate to `~/.local/share/Steam/steamapps/compatdata`).
+   - Navigate further to: `275850/pfx/drive_c/users/steamuser/Application Data/HelloGames/NMS`
+4. Choose your most recent save directory and start editing!
+
 ## Frequently Asked Questions
 
 Frequently asked questions can be found [here](FAQ.md).
